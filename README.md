@@ -1,30 +1,6 @@
-# Rsbuild Project
+## kuma-ui with rspack
 
-## Setup
-
-Install the dependencies:
-
-```bash
-pnpm install
 ```
-
-## Get Started
-
-Start the dev server:
-
-```bash
-pnpm dev
+$ npm install
+$ npm run dev
 ```
-
-Build the app for production:
-
-```bash
-pnpm build
-```
-
-Preview the production build locally:
-
-```bash
-pnpm preview
-```
-# kuma-ui-with-rspack
